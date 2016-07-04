@@ -1,3 +1,10 @@
+.DS_Store
+valgrind-3.9.0
+
+!*.c
+!*.h
+!Makefile
+
 # Object files
 *.o
 *.ko
@@ -31,3 +38,5 @@
 # Debug files
 *.dSYM/
 *.su
+
+*.dat
