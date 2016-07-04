@@ -1,5 +1,7 @@
 .DS_Store
 valgrind-3.9.0
+valgrind-3.9.0.tar
+/bin
 
 !*.c
 !*.h
